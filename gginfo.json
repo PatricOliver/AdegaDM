@@ -5,12 +5,14 @@
 		"js": [],
 		"css": []
 	},
-	"skin": {},
+	"skin": {
+		"js": "skin.js"
+	},
 	"vrskin": {},
 	"player": {
 		"js": "pano2vr_player.js"
 	},
-	"creationdate": "2025-03-13T18:47:40.455Z",
+	"creationdate": "2025-03-13T18:59:24.782Z",
 	"configuration": "pano.xml",
 	"preview": {
 		"img": "preview.jpg",
