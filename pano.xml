@@ -8,7 +8,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="-4.34764">
-      <start fov="100" pan="0" tilt="0" projection="4"/>
+      <start fov="140" pan="0" tilt="0" projection="4"/>
       <flyin fov="170" pan="0" tilt="-90" projection="9"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max scaletofit="1" fov="140" fovfisheye="360" pan="360" fovstereographic="330" tilt="90"/>
@@ -23,7 +23,7 @@
       <hotspot fov="10" id="Point04" skinid="ht_node" title="04 lateral esquerda" url="{node4}" customimage="media/arrow up.png" tilt="0" customimagewidth="500" description="" distance="2.10359" pan="155.239" target="$fwd" customimageheight="500" distance3D="2857.51" use3D="1"/>
     </hotspots>
     <media/>
-    <transition zoomspeed="2" type="crossdissolve" zoomoutpause="1" zoomout="0" zoomfov="40" delay="none" blendtime="1" zoomafteroutfov="40" enabled="1" softedge="0" zoomafterinfov="140" zoomin="0" blendcolor="0x000000"/>
+    <transition zoomspeed="2" type="mesh" zoomoutpause="1" zoomout="0" zoomfov="40" delay="none" blendtime="1" zoomafteroutfov="40" enabled="1" softedge="0" zoomafterinfov="140" zoomin="7" blendcolor="0x000000"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
     <control contextvr="1" contextprojections="0" hideabout="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" rubberband="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" zoomcentercursor="1" lockedkeyboardzoom="0"/>
   </panorama>
@@ -35,7 +35,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="-97.3696">
-      <start fov="100" pan="0" tilt="0" projection="4"/>
+      <start fov="140" pan="0" tilt="0" projection="4"/>
       <flyin fov="170" pan="0" tilt="-90" projection="9"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max scaletofit="1" fov="140" fovfisheye="360" pan="360" fovstereographic="330" tilt="90"/>
@@ -49,7 +49,7 @@
       <hotspot id="Point03" skinid="ht_node" title="frente vinhos" url="{node10}" tilt="0" description="" distance="3.24244" pan="-97.352" target="$fwd"/>
     </hotspots>
     <media/>
-    <transition zoomspeed="2" type="crossdissolve" zoomoutpause="1" zoomout="0" zoomfov="40" delay="none" blendtime="1" zoomafteroutfov="40" enabled="1" softedge="0" zoomafterinfov="140" zoomin="0" blendcolor="0x000000"/>
+    <transition zoomspeed="2" type="mesh" zoomoutpause="1" zoomout="0" zoomfov="40" delay="none" blendtime="1" zoomafteroutfov="40" enabled="1" softedge="0" zoomafterinfov="140" zoomin="7" blendcolor="0x000000"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
     <control contextvr="1" contextprojections="0" hideabout="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" rubberband="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" zoomcentercursor="1" lockedkeyboardzoom="0"/>
   </panorama>
@@ -61,7 +61,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="179.598">
-      <start fov="100" pan="0" tilt="0" projection="4"/>
+      <start fov="140" pan="0" tilt="0" projection="4"/>
       <flyin fov="170" pan="0" tilt="-90" projection="9"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max scaletofit="1" fov="140" fovfisheye="360" pan="360" fovstereographic="330" tilt="90"/>
@@ -75,7 +75,7 @@
       <hotspot id="Point03" skinid="ht_node" title="" url="{node11}" tilt="0" description="" distance="4.87398" pan="50.4209" target="$fwd"/>
     </hotspots>
     <media/>
-    <transition zoomspeed="2" type="crossdissolve" zoomoutpause="1" zoomout="0" zoomfov="40" delay="none" blendtime="1" zoomafteroutfov="40" enabled="1" softedge="0" zoomafterinfov="140" zoomin="0" blendcolor="0x000000"/>
+    <transition zoomspeed="2" type="mesh" zoomoutpause="1" zoomout="0" zoomfov="40" delay="none" blendtime="1" zoomafteroutfov="40" enabled="1" softedge="0" zoomafterinfov="140" zoomin="7" blendcolor="0x000000"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
     <control contextvr="1" contextprojections="0" hideabout="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" rubberband="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" zoomcentercursor="1" lockedkeyboardzoom="0"/>
   </panorama>
@@ -87,7 +87,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="-182.964">
-      <start fov="100" pan="0" tilt="0" projection="4"/>
+      <start fov="140" pan="0" tilt="0" projection="4"/>
       <flyin fov="170" pan="0" tilt="-90" projection="9"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max scaletofit="1" fov="140" fovfisheye="360" pan="360" fovstereographic="330" tilt="90"/>
@@ -100,7 +100,7 @@
       <hotspot description="" pan="-43.47" target="_blank" id="Point02" skinid="ht_url" title="" url="" tilt="26.49"/>
     </hotspots>
     <media/>
-    <transition zoomspeed="2" type="crossdissolve" zoomoutpause="1" zoomout="0" zoomfov="40" delay="none" blendtime="1" zoomafteroutfov="40" enabled="1" softedge="0" zoomafterinfov="140" zoomin="0" blendcolor="0x000000"/>
+    <transition zoomspeed="2" type="mesh" zoomoutpause="1" zoomout="0" zoomfov="40" delay="none" blendtime="1" zoomafteroutfov="40" enabled="1" softedge="0" zoomafterinfov="140" zoomin="7" blendcolor="0x000000"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
     <control contextvr="1" contextprojections="0" hideabout="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" rubberband="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" zoomcentercursor="1" lockedkeyboardzoom="0"/>
   </panorama>
@@ -112,7 +112,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="0">
-      <start fov="100" pan="0" tilt="0" projection="4"/>
+      <start fov="140" pan="0" tilt="0" projection="4"/>
       <flyin fov="170" pan="0" tilt="-90" projection="9"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max scaletofit="1" fov="140" fovfisheye="360" pan="360" fovstereographic="330" tilt="90"/>
@@ -125,7 +125,7 @@
       <hotspot id="Point02" skinid="ht_node" title="sobremesas" url="{node6}" tilt="0" description="" distance="2.14043" pan="1.78823" target="$fwd"/>
     </hotspots>
     <media/>
-    <transition zoomspeed="2" type="crossdissolve" zoomoutpause="1" zoomout="0" zoomfov="40" delay="none" blendtime="1" zoomafteroutfov="40" enabled="1" softedge="0" zoomafterinfov="140" zoomin="0" blendcolor="0x000000"/>
+    <transition zoomspeed="2" type="mesh" zoomoutpause="1" zoomout="0" zoomfov="40" delay="none" blendtime="1" zoomafteroutfov="40" enabled="1" softedge="0" zoomafterinfov="140" zoomin="7" blendcolor="0x000000"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
     <control contextvr="1" contextprojections="0" hideabout="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" rubberband="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" zoomcentercursor="1" lockedkeyboardzoom="0"/>
   </panorama>
@@ -137,7 +137,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="0">
-      <start fov="100" pan="0" tilt="0" projection="4"/>
+      <start fov="140" pan="0" tilt="0" projection="4"/>
       <flyin fov="170" pan="0" tilt="-90" projection="9"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max scaletofit="1" fov="140" fovfisheye="360" pan="360" fovstereographic="330" tilt="90"/>
@@ -150,7 +150,7 @@
       <hotspot id="Point02" skinid="ht_node" title="buffet direita" url="{node9}" tilt="0" description="" distance="1.13697" pan="88.3187" target="$fwd"/>
     </hotspots>
     <media/>
-    <transition zoomspeed="2" type="crossdissolve" zoomoutpause="1" zoomout="0" zoomfov="40" delay="none" blendtime="1" zoomafteroutfov="40" enabled="1" softedge="0" zoomafterinfov="140" zoomin="0" blendcolor="0x000000"/>
+    <transition zoomspeed="2" type="mesh" zoomoutpause="1" zoomout="0" zoomfov="40" delay="none" blendtime="1" zoomafteroutfov="40" enabled="1" softedge="0" zoomafterinfov="140" zoomin="7" blendcolor="0x000000"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
     <control contextvr="1" contextprojections="0" hideabout="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" rubberband="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" zoomcentercursor="1" lockedkeyboardzoom="0"/>
   </panorama>
@@ -162,7 +162,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="0">
-      <start fov="100" pan="0" tilt="0" projection="4"/>
+      <start fov="140" pan="0" tilt="0" projection="4"/>
       <flyin fov="170" pan="0" tilt="-90" projection="9"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max scaletofit="1" fov="140" fovfisheye="360" pan="360" fovstereographic="330" tilt="90"/>
@@ -176,7 +176,7 @@
       <hotspot description="" pan="-19.3" target="_blank" id="Point03" skinid="ht_url" title="" url="" tilt="-3.36"/>
     </hotspots>
     <media/>
-    <transition zoomspeed="2" type="crossdissolve" zoomoutpause="1" zoomout="0" zoomfov="40" delay="none" blendtime="1" zoomafteroutfov="40" enabled="1" softedge="0" zoomafterinfov="140" zoomin="0" blendcolor="0x000000"/>
+    <transition zoomspeed="2" type="mesh" zoomoutpause="1" zoomout="0" zoomfov="40" delay="none" blendtime="1" zoomafteroutfov="40" enabled="1" softedge="0" zoomafterinfov="140" zoomin="7" blendcolor="0x000000"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
     <control contextvr="1" contextprojections="0" hideabout="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" rubberband="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" zoomcentercursor="1" lockedkeyboardzoom="0"/>
   </panorama>
@@ -188,7 +188,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="0">
-      <start fov="100" pan="0" tilt="0" projection="4"/>
+      <start fov="140" pan="0" tilt="0" projection="4"/>
       <flyin fov="170" pan="0" tilt="-90" projection="9"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max scaletofit="1" fov="140" fovfisheye="360" pan="360" fovstereographic="330" tilt="90"/>
@@ -200,7 +200,7 @@
       <hotspot id="Point01" skinid="ht_node" title="02 area externa" url="{node2}" tilt="0" description="" distance="8.79131" pan="0.422321" target="$fwd"/>
     </hotspots>
     <media/>
-    <transition zoomspeed="2" type="crossdissolve" zoomoutpause="1" zoomout="0" zoomfov="40" delay="none" blendtime="1" zoomafteroutfov="40" enabled="1" softedge="0" zoomafterinfov="140" zoomin="0" blendcolor="0x000000"/>
+    <transition zoomspeed="2" type="mesh" zoomoutpause="1" zoomout="0" zoomfov="40" delay="none" blendtime="1" zoomafteroutfov="40" enabled="1" softedge="0" zoomafterinfov="140" zoomin="7" blendcolor="0x000000"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
     <control contextvr="1" contextprojections="0" hideabout="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" rubberband="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" zoomcentercursor="1" lockedkeyboardzoom="0"/>
   </panorama>
@@ -212,7 +212,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="0">
-      <start fov="100" pan="0" tilt="0" projection="4"/>
+      <start fov="140" pan="0" tilt="0" projection="4"/>
       <flyin fov="170" pan="0" tilt="-90" projection="9"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max scaletofit="1" fov="140" fovfisheye="360" pan="360" fovstereographic="330" tilt="90"/>
@@ -225,7 +225,7 @@
       <hotspot id="Point02" skinid="ht_node" title="buffet esq" url="{node7}" tilt="0" description="" distance="2.77842" pan="93.4416" target="$fwd"/>
     </hotspots>
     <media/>
-    <transition zoomspeed="2" type="crossdissolve" zoomoutpause="1" zoomout="0" zoomfov="40" delay="none" blendtime="1" zoomafteroutfov="40" enabled="1" softedge="0" zoomafterinfov="140" zoomin="0" blendcolor="0x000000"/>
+    <transition zoomspeed="2" type="mesh" zoomoutpause="1" zoomout="0" zoomfov="40" delay="none" blendtime="1" zoomafteroutfov="40" enabled="1" softedge="0" zoomafterinfov="140" zoomin="7" blendcolor="0x000000"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
     <control contextvr="1" contextprojections="0" hideabout="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" rubberband="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" zoomcentercursor="1" lockedkeyboardzoom="0"/>
   </panorama>
@@ -237,7 +237,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="173.656">
-      <start fov="100" pan="0" tilt="0" projection="4"/>
+      <start fov="140" pan="0" tilt="0" projection="4"/>
       <flyin fov="170" pan="0" tilt="-90" projection="9"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max scaletofit="1" fov="140" fovfisheye="360" pan="360" fovstereographic="330" tilt="90"/>
@@ -251,7 +251,7 @@
       <hotspot id="Point03" skinid="ht_node" title="03 esquerda" url="{node1}" tilt="0" description="" distance="2.54349" pan="290.222" target="$fwd"/>
     </hotspots>
     <media/>
-    <transition zoomspeed="2" type="crossdissolve" zoomoutpause="1" zoomout="0" zoomfov="40" delay="none" blendtime="1" zoomafteroutfov="40" enabled="1" softedge="0" zoomafterinfov="140" zoomin="0" blendcolor="0x000000"/>
+    <transition zoomspeed="2" type="mesh" zoomoutpause="1" zoomout="0" zoomfov="40" delay="none" blendtime="1" zoomafteroutfov="40" enabled="1" softedge="0" zoomafterinfov="140" zoomin="7" blendcolor="0x000000"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
     <control contextvr="1" contextprojections="0" hideabout="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" rubberband="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" zoomcentercursor="1" lockedkeyboardzoom="0"/>
   </panorama>
@@ -263,7 +263,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="-46.6155">
-      <start fov="100" pan="0" tilt="0" projection="4"/>
+      <start fov="140" pan="0" tilt="0" projection="4"/>
       <flyin fov="170" pan="0" tilt="-90" projection="9"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max scaletofit="1" fov="140" fovfisheye="360" pan="360" fovstereographic="330" tilt="90"/>
@@ -280,7 +280,7 @@
         <source url="media/Adega Don Maximiliano no Parco Perini em Joinville.mp4"/>
       </video>
     </media>
-    <transition zoomspeed="2" type="crossdissolve" zoomoutpause="1" zoomout="0" zoomfov="40" delay="none" blendtime="1" zoomafteroutfov="40" enabled="1" softedge="0" zoomafterinfov="140" zoomin="0" blendcolor="0x000000"/>
+    <transition zoomspeed="2" type="mesh" zoomoutpause="1" zoomout="0" zoomfov="40" delay="none" blendtime="1" zoomafteroutfov="40" enabled="1" softedge="0" zoomafterinfov="140" zoomin="7" blendcolor="0x000000"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
     <control contextvr="1" contextprojections="0" hideabout="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" rubberband="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" zoomcentercursor="1" lockedkeyboardzoom="0"/>
   </panorama>
