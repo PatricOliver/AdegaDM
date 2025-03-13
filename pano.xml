@@ -17,12 +17,16 @@
     <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
       <label wordwrap="1" borderradius="1" textalpha="1" backgroundcolor="0xffffff" backgroundalpha="1" border="1" height="20" textcolor="0x000000" background="1" borderalpha="1" width="180" enabled="1" bordercolor="0x000000"/>
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
-      <hotspot description="" pan="-64.62" target="_blank" id="Point01" skinid="ht_url" title="" url="" tilt="11.59"/>
       <hotspot id="Point02" skinid="ht_node" title="frente vinhos" url="{node10}" tilt="0" description="" distance="2.54349" pan="-67.7816" target="$fwd"/>
       <hotspot id="Point03" skinid="ht_node" title="buffet esq" url="{node7}" tilt="0" description="" distance="8.0032" pan="-7.71825" target="$fwd"/>
       <hotspot fov="10" id="Point04" skinid="ht_node" title="04 lateral esquerda" url="{node4}" customimage="media/arrow up.png" tilt="0" customimagewidth="500" description="" distance="2.10359" pan="155.239" target="$fwd" customimageheight="500" distance3D="2857.51" use3D="1"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound startmutedmobile="0" pansize="10.000" mode="0" id="_background" ambientlevel="0.000" tiltsize="10.000" tilt="-1.000" level="1.000" field="90.000" pan="-1.000" nodechangekeep="1" loop="5">
+        <source mono="0" url="media/Mas Cafe - Casa Rosa.mp3"/>
+        <source mono="0" url="media/Mas Cafe - Casa Rosa.mp3"/>
+      </sound>
+    </media>
     <transition zoomspeed="2" type="mesh" zoomoutpause="1" zoomout="0" zoomfov="40" delay="none" blendtime="1" zoomafteroutfov="40" enabled="1" softedge="0" zoomafterinfov="140" zoomin="7" blendcolor="0x000000"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
     <control contextvr="1" contextprojections="0" hideabout="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" rubberband="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" zoomcentercursor="1" lockedkeyboardzoom="0"/>
@@ -48,7 +52,12 @@
       <hotspot id="Point02" skinid="ht_node" title="01 fachada" url="{node8}" tilt="0" description="" distance="8.79131" pan="-276.947" target="$fwd"/>
       <hotspot id="Point03" skinid="ht_node" title="frente vinhos" url="{node10}" tilt="0" description="" distance="3.24244" pan="-97.352" target="$fwd"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound startmutedmobile="0" pansize="10.000" mode="0" id="_background" ambientlevel="0.000" tiltsize="10.000" tilt="-1.000" level="1.000" field="90.000" pan="-1.000" nodechangekeep="1" loop="5">
+        <source mono="0" url="media/Mas Cafe - Casa Rosa.mp3"/>
+        <source mono="0" url="media/Mas Cafe - Casa Rosa.mp3"/>
+      </sound>
+    </media>
     <transition zoomspeed="2" type="mesh" zoomoutpause="1" zoomout="0" zoomfov="40" delay="none" blendtime="1" zoomafteroutfov="40" enabled="1" softedge="0" zoomafterinfov="140" zoomin="7" blendcolor="0x000000"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
     <control contextvr="1" contextprojections="0" hideabout="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" rubberband="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" zoomcentercursor="1" lockedkeyboardzoom="0"/>
@@ -74,7 +83,12 @@
       <hotspot id="Point02" skinid="ht_node" title="fundos direito" url="{node5}" tilt="0" description="" distance="2.011" pan="93.3072" target="$fwd"/>
       <hotspot id="Point03" skinid="ht_node" title="" url="{node11}" tilt="0" description="" distance="4.87398" pan="50.4209" target="$fwd"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound startmutedmobile="0" pansize="10.000" mode="0" id="_background" ambientlevel="0.000" tiltsize="10.000" tilt="-1.000" level="1.000" field="90.000" pan="-1.000" nodechangekeep="1" loop="5">
+        <source mono="0" url="media/Mas Cafe - Casa Rosa.mp3"/>
+        <source mono="0" url="media/Mas Cafe - Casa Rosa.mp3"/>
+      </sound>
+    </media>
     <transition zoomspeed="2" type="mesh" zoomoutpause="1" zoomout="0" zoomfov="40" delay="none" blendtime="1" zoomafteroutfov="40" enabled="1" softedge="0" zoomafterinfov="140" zoomin="7" blendcolor="0x000000"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
     <control contextvr="1" contextprojections="0" hideabout="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" rubberband="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" zoomcentercursor="1" lockedkeyboardzoom="0"/>
@@ -99,7 +113,12 @@
       <hotspot id="Point01" skinid="ht_node" title="03 esquerda" url="{node1}" tilt="0" description="" distance="2.10359" pan="-203.378" target="$fwd"/>
       <hotspot description="" pan="-43.47" target="_blank" id="Point02" skinid="ht_url" title="" url="" tilt="26.49"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound startmutedmobile="0" pansize="10.000" mode="0" id="_background" ambientlevel="0.000" tiltsize="10.000" tilt="-1.000" level="1.000" field="90.000" pan="-1.000" nodechangekeep="1" loop="5">
+        <source mono="0" url="media/Mas Cafe - Casa Rosa.mp3"/>
+        <source mono="0" url="media/Mas Cafe - Casa Rosa.mp3"/>
+      </sound>
+    </media>
     <transition zoomspeed="2" type="mesh" zoomoutpause="1" zoomout="0" zoomfov="40" delay="none" blendtime="1" zoomafteroutfov="40" enabled="1" softedge="0" zoomafterinfov="140" zoomin="7" blendcolor="0x000000"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
     <control contextvr="1" contextprojections="0" hideabout="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" rubberband="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" zoomcentercursor="1" lockedkeyboardzoom="0"/>
@@ -124,7 +143,12 @@
       <hotspot id="Point01" skinid="ht_node" title="meio vinhos" url="{node3}" tilt="0" description="" distance="2.011" pan="93.7093" target="$fwd"/>
       <hotspot id="Point02" skinid="ht_node" title="sobremesas" url="{node6}" tilt="0" description="" distance="2.14043" pan="1.78823" target="$fwd"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound startmutedmobile="0" pansize="10.000" mode="0" id="_background" ambientlevel="0.000" tiltsize="10.000" tilt="-1.000" level="1.000" field="90.000" pan="-1.000" nodechangekeep="1" loop="5">
+        <source mono="0" url="media/Mas Cafe - Casa Rosa.mp3"/>
+        <source mono="0" url="media/Mas Cafe - Casa Rosa.mp3"/>
+      </sound>
+    </media>
     <transition zoomspeed="2" type="mesh" zoomoutpause="1" zoomout="0" zoomfov="40" delay="none" blendtime="1" zoomafteroutfov="40" enabled="1" softedge="0" zoomafterinfov="140" zoomin="7" blendcolor="0x000000"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
     <control contextvr="1" contextprojections="0" hideabout="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" rubberband="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" zoomcentercursor="1" lockedkeyboardzoom="0"/>
@@ -149,7 +173,12 @@
       <hotspot id="Point01" skinid="ht_node" title="fundos direito" url="{node5}" tilt="0" description="" distance="2.14043" pan="-178.212" target="$fwd"/>
       <hotspot id="Point02" skinid="ht_node" title="buffet direita" url="{node9}" tilt="0" description="" distance="1.13697" pan="88.3187" target="$fwd"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound startmutedmobile="0" pansize="10.000" mode="0" id="_background" ambientlevel="0.000" tiltsize="10.000" tilt="-1.000" level="1.000" field="90.000" pan="-1.000" nodechangekeep="1" loop="5">
+        <source mono="0" url="media/Mas Cafe - Casa Rosa.mp3"/>
+        <source mono="0" url="media/Mas Cafe - Casa Rosa.mp3"/>
+      </sound>
+    </media>
     <transition zoomspeed="2" type="mesh" zoomoutpause="1" zoomout="0" zoomfov="40" delay="none" blendtime="1" zoomafteroutfov="40" enabled="1" softedge="0" zoomafterinfov="140" zoomin="7" blendcolor="0x000000"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
     <control contextvr="1" contextprojections="0" hideabout="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" rubberband="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" zoomcentercursor="1" lockedkeyboardzoom="0"/>
@@ -175,7 +204,12 @@
       <hotspot id="Point02" skinid="ht_node" title="03 esquerda" url="{node1}" tilt="0" description="" distance="8.0032" pan="176.629" target="$fwd"/>
       <hotspot description="" pan="-19.3" target="_blank" id="Point03" skinid="ht_url" title="" url="" tilt="-3.36"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound startmutedmobile="0" pansize="10.000" mode="0" id="_background" ambientlevel="0.000" tiltsize="10.000" tilt="-1.000" level="1.000" field="90.000" pan="-1.000" nodechangekeep="1" loop="5">
+        <source mono="0" url="media/Mas Cafe - Casa Rosa.mp3"/>
+        <source mono="0" url="media/Mas Cafe - Casa Rosa.mp3"/>
+      </sound>
+    </media>
     <transition zoomspeed="2" type="mesh" zoomoutpause="1" zoomout="0" zoomfov="40" delay="none" blendtime="1" zoomafteroutfov="40" enabled="1" softedge="0" zoomafterinfov="140" zoomin="7" blendcolor="0x000000"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
     <control contextvr="1" contextprojections="0" hideabout="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" rubberband="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" zoomcentercursor="1" lockedkeyboardzoom="0"/>
@@ -199,7 +233,12 @@
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
       <hotspot id="Point01" skinid="ht_node" title="02 area externa" url="{node2}" tilt="0" description="" distance="8.79131" pan="0.422321" target="$fwd"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound startmutedmobile="0" pansize="10.000" mode="0" id="_background" ambientlevel="0.000" tiltsize="10.000" tilt="-1.000" level="1.000" field="90.000" pan="-1.000" nodechangekeep="1" loop="5">
+        <source mono="0" url="media/Mas Cafe - Casa Rosa.mp3"/>
+        <source mono="0" url="media/Mas Cafe - Casa Rosa.mp3"/>
+      </sound>
+    </media>
     <transition zoomspeed="2" type="mesh" zoomoutpause="1" zoomout="0" zoomfov="40" delay="none" blendtime="1" zoomafteroutfov="40" enabled="1" softedge="0" zoomafterinfov="140" zoomin="7" blendcolor="0x000000"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
     <control contextvr="1" contextprojections="0" hideabout="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" rubberband="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" zoomcentercursor="1" lockedkeyboardzoom="0"/>
@@ -224,7 +263,12 @@
       <hotspot id="Point01" skinid="ht_node" title="sobremesas" url="{node6}" tilt="0" description="" distance="1.13697" pan="-91.6813" target="$fwd"/>
       <hotspot id="Point02" skinid="ht_node" title="buffet esq" url="{node7}" tilt="0" description="" distance="2.77842" pan="93.4416" target="$fwd"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound startmutedmobile="0" pansize="10.000" mode="0" id="_background" ambientlevel="0.000" tiltsize="10.000" tilt="-1.000" level="1.000" field="90.000" pan="-1.000" nodechangekeep="1" loop="5">
+        <source mono="0" url="media/Mas Cafe - Casa Rosa.mp3"/>
+        <source mono="0" url="media/Mas Cafe - Casa Rosa.mp3"/>
+      </sound>
+    </media>
     <transition zoomspeed="2" type="mesh" zoomoutpause="1" zoomout="0" zoomfov="40" delay="none" blendtime="1" zoomafteroutfov="40" enabled="1" softedge="0" zoomafterinfov="140" zoomin="7" blendcolor="0x000000"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
     <control contextvr="1" contextprojections="0" hideabout="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" rubberband="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" zoomcentercursor="1" lockedkeyboardzoom="0"/>
@@ -250,7 +294,12 @@
       <hotspot id="Point02" skinid="ht_node" title="meio vinhos" url="{node3}" tilt="0" description="" distance="4.71868" pan="171.646" target="$fwd"/>
       <hotspot id="Point03" skinid="ht_node" title="03 esquerda" url="{node1}" tilt="0" description="" distance="2.54349" pan="290.222" target="$fwd"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound startmutedmobile="0" pansize="10.000" mode="0" id="_background" ambientlevel="0.000" tiltsize="10.000" tilt="-1.000" level="1.000" field="90.000" pan="-1.000" nodechangekeep="1" loop="5">
+        <source mono="0" url="media/Mas Cafe - Casa Rosa.mp3"/>
+        <source mono="0" url="media/Mas Cafe - Casa Rosa.mp3"/>
+      </sound>
+    </media>
     <transition zoomspeed="2" type="mesh" zoomoutpause="1" zoomout="0" zoomfov="40" delay="none" blendtime="1" zoomafteroutfov="40" enabled="1" softedge="0" zoomafterinfov="140" zoomin="7" blendcolor="0x000000"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
     <control contextvr="1" contextprojections="0" hideabout="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" rubberband="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" zoomcentercursor="1" lockedkeyboardzoom="0"/>
@@ -279,6 +328,10 @@
       <video rotx="0.304" roty="0.120" id="Element01" tiltsize="10.000" tilt="-90.374" level="1.000" popbackmode="0" clickmode="0" loop="1" startmutedmobile="0" pansize="10.000" fov="61.948" mode="3" ambientlevel="0.000" stretch="0.569" popoutscaling="100" hidepinned="0" rotz="-149.271" field="90.000" pan="-141.556" nodechangekeep="0" height="1280" handcursor="0" width="720">
         <source url="media/Adega Don Maximiliano no Parco Perini em Joinville.mp4"/>
       </video>
+      <sound startmutedmobile="0" pansize="10.000" mode="0" id="_background" ambientlevel="0.000" tiltsize="10.000" tilt="-1.000" level="1.000" field="90.000" pan="-1.000" nodechangekeep="1" loop="5">
+        <source mono="0" url="media/Mas Cafe - Casa Rosa.mp3"/>
+        <source mono="0" url="media/Mas Cafe - Casa Rosa.mp3"/>
+      </sound>
     </media>
     <transition zoomspeed="2" type="mesh" zoomoutpause="1" zoomout="0" zoomfov="40" delay="none" blendtime="1" zoomafteroutfov="40" enabled="1" softedge="0" zoomafterinfov="140" zoomin="7" blendcolor="0x000000"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
